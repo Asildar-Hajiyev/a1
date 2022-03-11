@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.exe
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.deps.json
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.runtimeconfig.json
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.dll
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\ref\WorkAround.dll
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\bin\Debug\net5.0\WorkAround.pdb
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.dll
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\ref\WorkAround.dll
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.pdb
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\WorkAround\WorkAround\obj\Debug\net5.0\WorkAround.csproj.AssemblyReference.cache
